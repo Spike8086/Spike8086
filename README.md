@@ -10,10 +10,8 @@
   #### $\color{#338f65}{\text{🎓 Education}}$
   *   **University of New South Wales (UNSW)** | `06.2025 - 07.2027 (Expected)`
       *   **Programme:** MIT Master of Information Technology-AI Specialization
-      *   **Core Modules:** Python, C++, Machine learning, Discrete Mathematics
   *   **Xi’an Jiaotong-Liverpool University (XJTLU)** | `08.2020 - 08.2024`
       *   **Programme:** BEng Data Science and Big Data Technology with Contemporary Entrepreneurialism
-      *   **Core Modules:** Pattern Recognition, Neural Networks, Numerical Methods
 
   #### $\color{#338f65}{\text{💼 Work Experience}}$
   *   **DeepShare** | `06.2024 - Present`
