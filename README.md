@@ -5,8 +5,9 @@
 
 <details>
   <summary><h3>$\color{#338f65}{\text{About me}}$</h3></summary>
-   $\color{#42b983}{\text{I am mainly research in Optimization, Statistic Theory, Deep Learning}}$
-   $\color{#42b983}{\text{UG in XJTLU,PG in UNSW}}$
+   $\color{#42b983}{\text{UG in XJTLU(2020-2024), PG in UNSW(2025-now)}}$
+
+   $\color{#42b983}{\text{Mainly research in Optimization, Statistic Theory, Deep Learning}}$
 </details>
 
 ## $\color{#338f65}{\text{𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻}}$ 
