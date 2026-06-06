@@ -10,5 +10,5 @@
    $\color{#42b983}{\text{Mainly research in Optimization, Statistic Theory, Deep Learning}}$
 </details>
 
-## $\color{#338f65}{\text{𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻}}$ 
+## $\color{#338f65}{\text{ℂ𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟}}$ 
 [![CloverPal](https://svg.bookmark.style/api?url=https://github.com/Spike8086/CloverPal&mode=dark&style=horizontal)](https://github.com/Spike8086/CloverPal)
