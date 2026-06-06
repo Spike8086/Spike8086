@@ -1,4 +1,6 @@
-## Hi，here's Spike8086 🤗，a master student in UNSW CSE,and part-time as RA in DeepShare
+## Hi，here's Spike8086 🤗
+### I am a master student in UNSW CSE,and part-time as RA in DeepShare
+### Hope we could find sth new to learn in this comm
 
 <!--
 **Spike8086/Spike8086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
