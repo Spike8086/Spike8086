@@ -1,6 +1,6 @@
 ## Hi，here's Spike8086 🤗
-### I am a master student in UNSW CSE,and part-time as RA in DeepShare
-### Hope we could find sth new to learn in this comm
+### I am currently a master student in UNSW CSE,and part-time as RA in DeepShare
+### Hope we could find sth new to learn in this comm <img src="spike1.png" width="55" alt="UI Customization">
 
 <!--
 **Spike8086/Spike8086** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
